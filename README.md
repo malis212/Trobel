@@ -2,14 +2,14 @@
 
 ### INSTALL SCRIPT 
 ```
-apt install -y && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/wingshope/ngentod/main/agoez.sh && chmod +x agoez.sh && ./agoez.sh
+apt install -y && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/malisun77/Trobel/main/setup.sh && chmod +x setup.sh && ./setup.sh
 
 ```
 
 ### PERINTAH UPDATE
 ```
 
-wget https://raw.githubusercontent.com/wingshope/ngentod/main/update.sh && chmod +x update.sh && ./update.sh
+wget https://raw.githubusercontent.com/malisun77/Trobel/main/update.sh && chmod +x update.sh && ./update.sh
 
 ```
 
