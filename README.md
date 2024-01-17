@@ -66,7 +66,7 @@ wget https://raw.githubusercontent.com/malisun77/Trobel/main/update.sh && chmod 
 ### TELEGRAM
 ```
 ```
-TROUBLE VPN :<a href="https://t.me/wingsofhope" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br>
+TROUBLE VPN :<a href="https://t.me/trouble_config" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br>
 ```
 ```
 ``
