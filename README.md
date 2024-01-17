@@ -1,7 +1,7 @@
 ### UPDATE UNTUK UBUNTU
-'''
+```
 apt update && apt upgrade -y && update-grub && sleep 2 && reboot
-'''
+```
 
 ### INSTALL SCRIPT 
 ```
